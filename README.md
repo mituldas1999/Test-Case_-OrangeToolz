@@ -2,7 +2,7 @@
 
 ## Sprint 19 Overview
 
-- **Number of Features**: 4 🌟
+- **Number of Features**: 5 🌟
 - **Number of Test Cases**: 15 ✅
 - **Total Bugs**: 10 🐞
 
